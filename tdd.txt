@@ -1,0 +1,16 @@
+2.1 测试金字塔
+    - 单元测试
+    - 集成测试
+    - 场景测试
+2.2 TDD 生命周期
+    - 红灯、绿灯、重构
+2.3 测试结构
+2.4 测试运行器与测试框架、工具
+    - Karma
+    - Jasmine、Mocha
+    - Power Assert
+    - Jest
+    - Cucumber 
+    - Puppyteer
+    - Selenium
+    - PhantomJs
