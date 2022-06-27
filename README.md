@@ -7,6 +7,18 @@
 
 昆山雷达产业基地授课，分两次，每次8课时。要求提供服务如下：面授 + 课件制作 + 操作视频录制 。
 
+## 我的敏捷感言
+
+最大的收获是阅读 Bob 大叔的《敏捷整洁之道》，相关感言发表在自己的公众号，以及知乎： https://zhuanlan.zhihu.com/p/518441216 上，得到了人民邮电出版社的转载：
+
+<img width="1383" alt="image" src="https://user-images.githubusercontent.com/3367820/175928463-53507d2a-3b5e-4523-aa1d-b497258cfc4e.png">
+
+## 哈德韦公众号
+
+希望大家多多关注，以接收更多的内容更新：
+
+![](https://camo.githubusercontent.com/f81b1a2e474963b2f582de025ce8c770543407f2c04864c37832257049db0491/68747470733a2f2f6d6c2e6a697761692e77696e2f6d702d686172647761792e706e67)
+
 ## 参考
 
 - https://www.atlassian.com/agile/project-management/workflow
